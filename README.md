@@ -9,5 +9,4 @@ The prints barely fit the bed of a stock Ender 3 if they are rotated 45 degrees,
 * 4 M3x10(13mm overall length, 5.5mm diameter head) allen head screws for the bottom plate
 * hot glue for securing the pro micro to the bottom case(optional, but recommended)
 
-![VOID40](https://i.imgur.com/1OUBSvn.jpg)
 ![VOID40](https://i.imgur.com/dhAZlNd.jpg)
