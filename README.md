@@ -6,7 +6,7 @@ The VOID40 is a 3d printed, handwired, 40% ortholinear keyboard running QMK Firm
 
 I suggest printing the case using a 0.4 mm nozzle, supports are not needed for any of the parts.
 
-You might want/need to use small dabs of hot glue to secure the switches in the plate depending on how well calibrated is your printer(if you're generous with it, it will add to the weight of the keyboard and it might change the feel of it).
+You might want/need to use small dabs of hot glue to secure the switches in the plate depending on how well calibrated your printer is(if you're generous with it, it will add to the weight of the keyboard and it might change the feel of it).
 
 Dont overtighten the screws as the posts could break off and the threads might get stripped.
 
