@@ -11,7 +11,7 @@ You might want/need to use small dabs of hot glue to secure the switches in the 
 Dont overtighten the screws as the posts could break off and the threads might get stripped.
 
 
-*Bill Of Materials*
+# Bill Of Materials
 
 * 47/48 diodes (1N4148)
 * 47/48 switches
