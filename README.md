@@ -9,4 +9,6 @@ The prints fit the bed of a stock Ender 3 if they are rotated 45 degrees, with t
 * 4 M3x10(13mm overall length, 5.5mm diameter head) allen head screws for the bottom plate
 * hot glue for securing the pro micro to the bottom case(optional, but recommended)
 
+A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/master/keyboards/handwired/void40). Edit them to suit your own needs and build the firmware following the QMK docs.
+
 ![VOID40](https://i.imgur.com/dhAZlNd.jpg)
