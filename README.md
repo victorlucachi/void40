@@ -1,10 +1,22 @@
 # VOID40
 *A 40% handwired ortholinear keyboard*
 
-The VOID40 is a 3d printable 40% ortholinear keyboard, designed to fit the bed of an Ender 3, handwired using a Pro Micro controller that is running the QMK Firmware.
-The prints fit the bed of a stock Ender 3 if they are rotated 45 degrees, with the skirt/brim disabled in your slicers settings.
+The VOID40 is a 3d printed, handwired, 40% ortholinear keyboard running QMK Firmware on a Pro Micro controller. The case is designed to fit the bed of a stock Ender 3 when the parts are rotated 45 degrees and the skirt/brim is disabled in the slicers settings.
 
-*BOM for case assembly*
+
+I suggest printing the case using a 0.4 mm nozzle, supports are not needed for any of the parts.
+
+You might want/need to use small dabs of hot glue to secure the switches in the plate depending on how well calibrated is your printer(if you're generous with it, it will add to the weight of the keyboard and it might change the feel of it).
+
+Dont overtighten the screws as the posts could break off and the threads might get stripped.
+
+
+*BOM*
+
+* 47/48 diodes (1N4148)
+* 47/48 switches
+* 24 AWG (0.2 mm2) wire
+* Pro Micro
 * 4 M3x10 countersunk screws for the top plate
 * 4 M3x10(13mm overall length, 5.5mm diameter head) allen head screws for the bottom plate
 * hot glue for securing the pro micro to the bottom case(optional, but recommended)
