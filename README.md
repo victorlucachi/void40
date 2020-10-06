@@ -17,7 +17,7 @@ Dont overtighten the screws as the posts could break off and the threads might g
 * 47/48 diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/))
 * 47/48 cherry mx style switches
 * 24 AWG (0.2 mm2) wire
-* Pro Micro
+* Pro Micro (aliexpress [link](https://www.aliexpress.com/item/32902569443.html))
 * EC11 Rotary Encoder (optional/aliexpress [link](https://www.aliexpress.com/item/32872039030.html) mounted to the plate using [this adapter](https://www.thingiverse.com/thing:3770166))
 * 4 M3x10 countersunk screws that go through the top case (tme.eu [link](https://www.tme.eu/ro/en/details/b3x10_bn661/bolts/bossard/1250752/))
 * 4 M3x10(13mm overall length, 5.5mm diameter head) allen head screws that go through the bottom plate (tme.eu [link](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/))
