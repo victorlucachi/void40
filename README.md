@@ -14,7 +14,7 @@ Dont overtighten the screws as the posts could break off and the threads might g
 
 # Bill Of Materials
 
-* 47/48 diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/))
+* 47/48 diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/)/aliexpress [link](https://www.aliexpress.com/item/32729204179.html))
 * 47/48 cherry mx style switches
 * 24 AWG (0.2 mm2) wire
 * Pro Micro (aliexpress [link](https://www.aliexpress.com/item/32902569443.html))
