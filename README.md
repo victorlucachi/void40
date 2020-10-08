@@ -30,7 +30,7 @@ Dont overtighten the screws as the posts could break off and the threads might g
     
     
     COL0    COL1    COL2    COL3    COL4    COL5    COL6    COL7    COL8    COL9    COL10   COL11
-    D4      C6      D       E6      B4      B5      F4      F5      F6      F7      B1      B3
+    D4      C6      D7      E6      B4      B5      F4      F5      F6      F7      B1      B3
 
 
     Encoder Pad A           Encoder Pad B
