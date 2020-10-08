@@ -25,16 +25,16 @@ Dont overtighten the screws as the posts could break off and the threads might g
 
 # Pin assignment
 
-    ROW0      ROW1      ROW2      ROW3
-    D3        D2        D1        D0
+    ROW0    ROW1    ROW2    ROW3
+    D3      D2      D1      D0
     
     
-    COLUMN0   COLUMN1   COLUMN2   COLUMN3   COLUMN4   COLUMN5   COLUMN6   COLUMN7   COLUMN8   COLUMN9   COLUMN10    COLUMN11
-    D4        C6        D7        E6        B4        B5        F4        F5        F6        F7        B1          B3
+    COL0    COL1    COL2    COL3    COL4    COL5    COL6    COL7    COL8    COL9    COL10   COL11
+    D4      C6      D       E6      B4      B5      F4      F5      F6      F7      B1      B3
 
 
-    Encoder Pad A       Encoder Pad B
-    B6                  B2
+    Encoder Pad A           Encoder Pad B
+    B6                      B2
 
 # QMK Fork
 
