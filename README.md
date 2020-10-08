@@ -23,6 +23,19 @@ Dont overtighten the screws as the posts could break off and the threads might g
 * 4 M3x10(13mm overall length, 5.5mm diameter head) allen head screws that go through the bottom plate (tme.eu [link](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/))
 * hot glue for securing the pro micro to the bottom case(optional, but recommended)
 
+# Pin assignment
+
+    ROW0      ROW1      ROW2      ROW3
+    D3        D2        D1        D0
+    
+    
+    COLUMN0   COLUMN1   COLUMN2   COLUMN3   COLUMN4   COLUMN5   COLUMN6   COLUMN7   COLUMN8   COLUMN9   COLUMN10    COLUMN11
+    D4        C6        D7        E6        B4        B5        F4        F5        F6        F7        B1          B3
+
+
+    Encoder Pad A       Encoder Pad B
+    B6                  B2
+
 # QMK Fork
 
 A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/master/keyboards/handwired/void40). Edit them to suit your own needs and build the firmware following the QMK docs.
