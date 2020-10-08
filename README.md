@@ -1,7 +1,7 @@
 # VOID40
 *A 40% handwired ortholinear keyboard*
 
-![VOID40](https://i.imgur.com/dhAZlNd.jpg)
+![VOID40](https://i.imgur.com/H7uoMas.jpg)
 
 The VOID40 is a 3d printed, handwired, 40% ortholinear keyboard running QMK Firmware on a Pro Micro controller. The case is designed to fit the bed of a stock Ender 3 when the parts are rotated 45 degrees and the skirt/brim is disabled in the slicers settings.
 
