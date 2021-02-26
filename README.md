@@ -11,6 +11,12 @@ You might want/need to use small dabs of hot glue to secure the switches in the 
 
 Dont overtighten the screws as the posts could break off and the threads might get stripped.
 
+# Handwiring guide
+
+I've also put together a pretty visual handwiring guide for the VOID9, that you can browse over [here](https://victorlucachi.ro/journal/void9-wiring-guide/).
+
+| ![](https://i.imgur.com/MHTt02w.jpg) 	| ![](https://i.imgur.com/TzdhlCM.jpg) 	| ![](https://i.imgur.com/vTpQaXI.jpg) 	|
+|---------------------------------------	|---------------------------------------	|---------------------------------------	|
 
 # Bill Of Materials
 
