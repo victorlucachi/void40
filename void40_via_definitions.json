@@ -2,7 +2,6 @@
   "name":"VOID40",
   "vendorId":"0xF055",
   "productId":"0x3531",
-  "lighting":"none",
   "matrix":{
     "rows":4,
     "cols":12
