@@ -7,7 +7,7 @@ The VOID40 is a 3d printed, handwired, 40% ortholinear keyboard running QMK Firm
 
 I suggest printing the case using a 0.4 mm nozzle, supports are not needed for any of the parts.
 
-You might want/need to use small dabs of hot glue to secure the switches in the plate depending on how well calibrated your printer is(if you're generous with it, it will add to the weight of the keyboard and it might change the feel of it).
+You might want/need to use small dabs of hot glue to secure the switches in the plate depending on how well calibrated your printer is (if you're generous with it, it will add to the weight of the keyboard and it might change the feel of it).
 
 Dont overtighten the screws as the posts could break off and the threads might get stripped.
 
@@ -20,14 +20,23 @@ I've also put together a pretty visual handwiring guide for the VOID9, that you 
 
 # Bill Of Materials
 
-* 47/48 x diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/)/aliexpress [link](https://www.aliexpress.com/item/32729204179.html))
-* 47/48 x cherry mx style switches
+* 48 x diodes ([tme.eu](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/)/[aliexpress](https://www.aliexpress.com/item/32729204179.html))
+* 48 x Cherry MX style mechanical switches
+* 48 x keycaps of choice
+* 1 x Pro Micro ([aliexpress](https://www.aliexpress.com/item/32902569443.html))
+* 1 x EC11 Rotary Encoder ([aliexpress](https://www.aliexpress.com/item/32872039030.html)/mounted to the plate using [this adapter](https://www.thingiverse.com/thing:3770166))
 * 24 AWG (0.2 mm2) wire
-* 1 x Pro Micro (aliexpress [link](https://www.aliexpress.com/item/32902569443.html))
-* 1 x EC11 Rotary Encoder (optional/aliexpress [link](https://www.aliexpress.com/item/32872039030.html) mounted to the plate using [this adapter](https://www.thingiverse.com/thing:3770166))
-* 4 x M3x10 countersunk screws that go through the top case (tme.eu [link](https://www.tme.eu/ro/en/details/b3x10_bn661/bolts/bossard/1250752/))
-* 4 x M3x10(13mm overall length, 5.5mm diameter head) allen head screws that go through the bottom plate (tme.eu [link](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/))
-* hot glue for securing the pro micro to the bottom case(optional, but recommended)
+* 4 x 8mm bumpons
+
+### Redux
+* 10 x M2x3x3.5 OD heat inserts ([aliexpress](https://www.aliexpress.com/item/4000585933306.html?spm=a2g0o.order_list.order_list_main.33.21ef1802vdSNrS))
+* 4 x M2x10 Allen head screws ([aliexpress](https://www.aliexpress.com/item/32966941844.html?spm=a2g0o.order_detail.order_detail_item.9.722ff19cyjrixq))
+* 6 x M2x6 Countersunk screws ([aliexpress](https://www.aliexpress.com/item/32968097507.html?spm=a2g0o.order_list.order_list_main.32.21ef1802vdSNrS))
+
+### V1
+* 4 x M3x10 countersunk screws that go through the top case ([tme.eu](https://www.tme.eu/ro/en/details/b3x10_bn661/bolts/bossard/1250752/)/[aliexpress](https://www.aliexpress.com/item/32968097507.html))
+* 4 x M3x10 allen head screws ([tme.eu](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/)/[aliexpress](https://www.aliexpress.com/item/32966941844.html))
+* hotglue
 
 # Pin assignment
 
